@@ -1,0 +1,61 @@
+<!DOCTYPE html><!-- commentaire-->
+<html lang="fr">
+<head><!-- balise ouvrante head-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>titre de l onglet du navigateur</title>
+    <link rel="stylesheet" href="css/style.css">
+</head><!-- balise fermante head -->
+<body>
+    <header>
+        <h1>Titre le plus important</h1>
+        <nav>
+            <a href="https://www.ecosia.org/?c=fr">google</a>
+            <a href="https://www.ecosia.org/?c=fr">google</a>
+            <a href="https://www.ecosia.org/?c=fr">google</a>
+            <a href="https://www.ecosia.org/?c=fr">google</a>
+        </nav>
+    </header>
+    <main>
+        <div>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+        </div>
+        <section>
+            <h2>titre de section</h2>
+            <img src="img/nain.jp" alt="texte descriptif de l image ">
+        </section>
+    </main>
+    <footer>
+        
+        <p>mentions legales etc.......</p>
+
+    </footer>
+    
+</body>
+</html>
+
+
+css
+
+/*
+Commentaire
+*/
+/*Syntaxe du css
+
+selecteur{
+propriete: valeur;
+propriete: valeur;
+propriete: valeur;
+propriete: valeur;
+}
+*/
+body{
+    background-color: #2a9da5;
+}
+h1{
+    color: yellowgreen;
+    text-align: center;
+}
